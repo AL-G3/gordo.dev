@@ -1,0 +1,22 @@
+{
+  "name": "gordo.dev",
+  "version": "1.0.0",
+  "description": "landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AL-G3/gordo.dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AL-G3/gordo.dev/issues"
+  },
+  "homepage": "https://github.com/AL-G3/gordo.dev#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.9.0"
+  }
+}
